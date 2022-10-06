@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-bansal-21&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@jatinbansal's Holopin board](https://holopin.io/api/user/board?user=jatinbansal)](https://holopin.io/@jatinbansal)
+
 <!--
 **jatin-bansal-21/jatin-bansal-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
