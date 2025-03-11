@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Jatin's GitHub stats](https://jatin-bansal-readme-stats-git-main-jatins-projects-a441fa8e.vercel.app/api?username=jatin-bansal-21&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://jatin-bansal-readme-stats-git-main-jatins-projects-a441fa8e.vercel.app/api/top-langs/?username=jatin-bansal-21&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 [![@jatinbansal's Holopin board](https://holopin.io/api/user/board?user=jatinbansal)](https://holopin.io/@jatinbansal)
 
 <!--
