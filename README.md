@@ -11,17 +11,32 @@ I’m a backend engineer who loves building high-performance systems, simplifyin
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jatinbansal1998)
 [![Blog](https://img.shields.io/badge/Blog-blog.jatinbansal.com-orange?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.jatinbansal.com)
 [![Email](https://img.shields.io/badge/Email-contact@jatinbansal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jatinbansal.com)
-<!-- 
+
+<!--
 [![@jatinbansal's Holopin board](https://holopin.io/api/user/board?user=jatinbansal)](https://holopin.io/@jatinbansal)
 -->
+
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages**: Java  
-- **Frameworks**: Spring Boot, Hibernate  
-- **Infra & Systems**: Kafka, Redis, AWS, PostgreSQL  
-- **Focus Areas**: Distributed Systems, Microservices, Performance Optimization  
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🧱 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 🏗 Infrastructure & Databases
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & Monitoring
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 
 ---
 
